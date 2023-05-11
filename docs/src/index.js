@@ -1,0 +1,1 @@
+console.log('Github_Pages_Vanilla_Docs')
